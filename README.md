@@ -26,7 +26,7 @@ To retrieve data from the database and save in 'data.json'
 python main.py -o 'data.json'
 ```
 To know how the script works, check out my blog:
-[Click here](https://itsallaboutpython.blogspot.com/2021/05/create-undefeatable-tic-tac-toe-in.html)
+[Click here](https://itsallaboutpython.blogspot.com/2021/05/notion-api-python.html)
 
 To get more info, check out my
 Youtube: [Click here](https://www.youtube.com/channel/UCggZvARaczWC4wc4E6f330w?sub_confirmation=1)
