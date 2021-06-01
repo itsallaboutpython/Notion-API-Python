@@ -1,5 +1,6 @@
 # Notion API Python
 ## Communicate with Notion API to retrieve data using Python
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Nlc0eFDnx6E/0.jpg)](https://www.youtube.com/watch?v=Nlc0eFDnx6E)
 ### Installation
 Open terminal and type the following
 ```
